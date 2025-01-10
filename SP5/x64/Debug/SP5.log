@@ -1,0 +1,7 @@
+﻿  SP5.cpp
+E:\WORK\SysP\SP5\SP5\SP5.cpp(92,22): warning C4244: инициализация: преобразование "unsigned long" в "uint8_t", возможна потеря данных
+E:\WORK\SysP\SP5\SP5\SP5.cpp(161,22): warning C4267: инициализация: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+E:\WORK\SysP\SP5\SP5\SP5.cpp(220,18): warning C4267: инициализация: преобразование из "size_t" в "int"; возможна потеря данных
+  ThreadPool.cpp
+  Создание кода...
+  SP5.vcxproj -> E:\WORK\SysP\SP5\x64\Debug\SP5.exe
